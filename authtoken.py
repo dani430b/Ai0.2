@@ -1,1 +1,1 @@
-auth_token = "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"
+auth_token = "your_token"
