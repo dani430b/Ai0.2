@@ -34,4 +34,4 @@ async def gen(ctx, arg):
 async def show(ctx):
     await ctx.channel.send(file=discord.File("picture.png"))
 
-bot.run("MTE1Nzc1NTQ1NDI1MjkxMjc3MQ.GfFzA0.g-_giLzGRLv8RJm4bCF37I01QoBOJF9z7NoDSU")
+bot.run("")
